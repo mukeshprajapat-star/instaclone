@@ -21,13 +21,9 @@ Full-Stack Instgram Clone using MERN Stack and Socket.io
 
 ![socketio](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
 
-**Cloud Storage:**
-
-![aws-s3](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
 **Deployed On:**
 
-![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![onrender]
 
 **Cloud Storage:** [Cloudinary](https://cloudinary.com/)
 **Mail Service:** [Sendgrid](https://sendgrid.com/)
